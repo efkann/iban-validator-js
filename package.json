@@ -1,6 +1,6 @@
 {
   "name": "iban-validator-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An IBAN Validator, converting the IBAN into an integer and performing a mod-97 operation.",
   "main": "index.js",
   "scripts": {
