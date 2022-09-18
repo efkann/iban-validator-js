@@ -7,7 +7,7 @@ IBAN Validator, follows the algorithm described at [Validating the IBAN](https:/
 Install using [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install --save iban-validator-js
+npm install iban-validator-js
 ```
 
 ## Basic Usage
