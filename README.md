@@ -14,6 +14,7 @@ npm install iban-validator-js
 
 ```js
 const IBANValidator = require('iban-validator-js');
+
 IBANValidator.isValid(''); // false
 IBANValidator.isValid('not-a-valid-IBAN'); // false
 IBANValidator.isValid('TR320010009999901234567890'); // true
